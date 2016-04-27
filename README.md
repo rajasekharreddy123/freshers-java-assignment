@@ -58,6 +58,21 @@ You would need to mandatorily submit a pull request, without which we cannot con
 
 We really look forward to getting some bright minds who can show us all their creativity and aptitude through this assignment.
 
+# Reference Material
+Given below are links to some reference material which you may find useful while doing the assignment.
+
+1. Github - Forking and submitting pull requests
+ - https://gun.io/blog/how-to-github-fork-branch-and-pull-request/
+
+2. Using Eclipse with Github
+ - https://wiki.eclipse.org/EGit/User_Guide#Working_with_remote_Repositories
+
+3. Java concurrency constructs which may be useful
+ - http://tutorials.jenkov.com/java-util-concurrent/countdownlatch.html
+ - http://tutorials.jenkov.com/java-util-concurrent/threadpoolexecutor.html
+
+4. Maven tutorial and how to use with Eclipse
+ - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+ - http://www.eclipse.org/m2e/
+
 ## All the best and happy coding :-)
-
-
