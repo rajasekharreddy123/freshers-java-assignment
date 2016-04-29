@@ -74,5 +74,6 @@ Given below are links to some reference material which you may find useful while
 4. Maven tutorial and how to use with Eclipse
  - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
  - http://www.eclipse.org/m2e/
+ - http://www.mkyong.com/maven/how-to-create-a-java-project-with-maven/
 
 ## All the best and happy coding :-)
